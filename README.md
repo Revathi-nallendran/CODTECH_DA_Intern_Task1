@@ -1,5 +1,5 @@
 # DataAnalytics_Intern
-
+TASK 01  
 Restaurant Dataset Exploratory Data Analysis (EDA)
 
 This repository contains the Exploratory Data Analysis (EDA) for a comprehensive restaurant dataset. The dataset, dataset.csv, includes detailed information on 9,551 restaurants from various locations. Key attributes of the dataset include restaurant ID, name, location, cuisine type, average cost for two, ratings, and more.
