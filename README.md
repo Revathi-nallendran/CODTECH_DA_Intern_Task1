@@ -1,3 +1,9 @@
+**Name**: Revathi.N   
+**Company**: CODTECH IT SOLUTIONS      
+**ID** : CT4DA3934   
+**Domain** : Data Analytics   
+**Duration** : 5th July to 5th August (2024)
+
 # Task 1
 # Exploratory Data Analysis For Restaurant Dataset (EDA)
 
